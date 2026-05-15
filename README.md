@@ -1,12 +1,12 @@
 <!-- HERO -->
 
-<h1 align="center">AI Writing & Editorial System</h1>
+<h1 align="left">Writing & Editorial System</h1>
 
-<p align="center">
+<p align="left">
 Clear writing. Precise structure. No filler.
 </p>
 
-<p align="center">
+<p align="left">
 A practical system for producing high-signal content, combining strict writing rules with a reusable editorial design framework.
 </p>
 
