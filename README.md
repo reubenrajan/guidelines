@@ -1,14 +1,5 @@
-<!-- HERO -->
-
-<h1 align="left">Writing & Editorial System</h1>
-
-<p align="left">
-Clear writing. Precise structure. No filler.
-</p>
-
-<p align="left">
+# Writing & Editorial System
 A practical system for producing high-signal content, combining strict writing rules with a reusable editorial design framework.
-</p>
 
 ---
 
@@ -17,11 +8,9 @@ A practical system for producing high-signal content, combining strict writing r
 It removes generic AI-style output and replaces it with:
 
 - Direct, specific writing  
-- Consistent structure across long-form content  
-- Repeatable design patterns for readability  
-- A system you can apply across docs, blogs, and evaluation frameworks  
-
-Two files drive everything.
+- Consistent structure across long-form content
+- Repeatable design patterns for readability
+- A system you can apply across docs, blogs, and evaluation frameworks
 
 ---
 
@@ -31,7 +20,7 @@ Two files drive everything.
 
 A strict operating guide for how text should read.
 
-- Lead with specifics — names, numbers, facts  
+- Lead with specifics, like names, numbers, facts  
 - Cut vague or inflated language  
 - Avoid clichés and AI phrasing  
 - Use plain words, not corporate jargon  
@@ -63,15 +52,3 @@ Use this when building documentation, reports, or content sites.
 4. Structure into sections using editorial components  
 5. Apply layout patterns from `spec-editorial.md`  
 6. Validate using the checklist  
-
-## What this avoids
-
-- “In today’s fast-paced world…”  
-- “This plays a crucial role…”  
-- “Let’s explore…”  
-- Generic summaries and restatements  
-- Over-designed, card-heavy layouts  
-
----
-
-## Repository structure
