@@ -1,7 +1,6 @@
 # The Anti-AI Writing Prompt: Commands & Examples
 
-*Operational style guide for drafting and editing prose. No research references. Commands and examples only.*
-
+*Operational style guide for drafting and editing prose.*
 ---
 
 ## 1. Core Commands
